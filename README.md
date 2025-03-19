@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio App
 
 ## Overview
@@ -27,3 +28,6 @@ To run this project locally, follow these steps:
     flutter pub get
 4. Run the app:
     flutter run
+=======
+# Introduction-to-Mobile
+>>>>>>> 0adaa4d (Initial commit)
